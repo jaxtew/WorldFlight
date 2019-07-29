@@ -1,0 +1,4 @@
+# Whether players that do not have the bypass permission "worldflight.bypass"
+# and are in creative mode should have their flight turned off when changing worlds
+# true = flight is retained, false = flight is disabled when changing worlds
+creative-worldflight: false

@@ -1,0 +1,4 @@
+name: "WorldFlight"
+main: "me.jts3304.worldflight.WorldFlightPlugin"
+version: "${project.version}"
+api-version: "1.14"
